@@ -1,0 +1,107 @@
+body {
+	background: #fff;
+}
+
+.container {
+	margin-top: 10px;
+}
+
+.info {
+	background: #fff;
+	border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	padding: 10px;
+}
+
+.info li {
+	margin-top: 1.5em;
+	border-bottom: 1px solid #dfdfdf;
+	padding-bottom: 5px;
+}
+
+
+.span7 {
+	margin: 0px;
+	background:#fff;
+    margin-left: 0;
+    padding-left: 19px;
+	padding-right: 19px;
+    border-right: 1px solid #eee;
+	border-left: 1px solid #eee;
+
+}
+
+legend h2 {
+	color: #2D153F;
+}
+
+.resultdiv {
+	border-bottom: 1px solid #eee;
+}
+
+.refdiv:hover {
+	background: #F9F9F9;
+}
+
+.refdiv {
+	border-top: 1px solid #eee;
+}
+
+#footer {
+	border-top: 1px solid #eee;
+	margin-top: 50px;
+	background:#fff;
+}
+
+div {
+	border-radius: 4px;
+}
+
+form {
+	margin-bottom: 0px;
+}
+
+label {
+	width: 30%;
+}
+
+.form-actions.btn_container {
+	margin-bottom: 0px;
+}
+
+
+
+
+form input[name=articleTittle] {
+	font-style:italic;
+}
+
+form input:focus {
+	border-color: #0e8bc3;
+	background: #fff;
+	color: #000000;
+	box-shadow: inset 0 1px rgba(0, 73, 152, 0.75), 0 1px rgba(0, 73, 152, 0.75), 0 0 7px rgba(0, 73, 152, 0.75);
+	-moz-box-shadow: inset 0 1px rgba(0, 73, 152, 0.75), 0 1px rgba(0, 73, 152, 0.75), 0 0 7px rgba(0, 73, 152, 0.75);
+	-webkit-box-shadow: inset 0 1px rgba(0, 73, 152, 0.75), 0 1px rgba(0, 73, 152, 0.75), 0 0 7px rgba(0, 73, 152, 0.75);
+}
+
+.info #alert {
+	color:#cc0000;
+	font-weight: bold;
+}
+
+/*Result Styling */
+.resultdiv {
+	border-top:1px solid #0044CC;
+	min-height: 100px;
+}
+/*Result end*/
+.icondiv {
+	margin: 20px 0px 10px 0px;
+}
+.icondiv img {
+	margin-right: 10px;
+}
+
+
